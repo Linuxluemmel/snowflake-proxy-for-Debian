@@ -1,5 +1,7 @@
 Debian 12 has a very old release of snowflake-proxy (2.5.1) 
-For this reason I created the current deb file 
+For this reason I created the current deb file.
+I replaces the binary file and changed the manual page 
+with the correct parameters. 
 
 On March 24 I was testing the lastest code .... 
 During hours not a single connection from any clients .....
